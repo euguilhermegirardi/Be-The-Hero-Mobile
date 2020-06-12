@@ -44,7 +44,7 @@ The mobile was developed with [**_React Native_**](https://reactnative.dev/) usi
 
        npm run start
     
-5.**Note**: You have to run the [**_backend_**](https://github.com/euguilhermegirardi/Be-The-Hero-Backend) to run this application.
+5. **Note**: You have to run the [**_backend_**](https://github.com/euguilhermegirardi/Be-The-Hero-Backend) to run this application.
 
 
 6. In localhost you can open-up the project by clickin on 'Run on...' iOS, Android or in the browser.
